@@ -11,3 +11,7 @@ Data stream applications usually suffer from multiple types of concept drift. Ho
 #### Author
  - Chun Wai Chiu (Michael): cxc1015 at student dot bham dot ac dot uk
  - Leandro Minku: L dot L dot Minku at bham dot ac dot uk
+
+#### Environment details
+Java version: 11.0.1
+MOA version: 2018.6.0
