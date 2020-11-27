@@ -1,4 +1,4 @@
-# CDCMS
+# Concept Drift handling based on Clustering in the Model Space (CDCMS)
 This repository contains the followings:
  - The MOA implementation of CDCMS
  - The analysis of time-accuracy-memory relationship in CDCMS
