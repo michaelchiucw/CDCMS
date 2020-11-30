@@ -3,7 +3,7 @@
 
 This repository contains the followings:
  - The MOA implementation of CDCMS
- - The analysis of time-accuracy-memory relationship in CDCMS
+ - The analysis of time-memory-accuracy relationship in CDCMS
  - The statistical test results and the plots of the experiment results
  - Artificial datasets used in the experiment and hyper-parameter tuning of paper.
 
