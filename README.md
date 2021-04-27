@@ -1,5 +1,5 @@
 # Concept Drift handling based on Clustering in the Model Space (CDCMS)
-[![DOI](https://zenodo.org/badge/316550501.svg)](https://zenodo.org/badge/latestdoi/316550501)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4294776.svg)](https://doi.org/10.5281/zenodo.4294776)
 
 This repository contains the followings:
  - The MOA implementation of CDCMS
